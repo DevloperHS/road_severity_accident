@@ -1,7 +1,7 @@
 # Road_Severity_Accident_Prediction_WebApp
 Road Severity Accident Prediction Using Random Forest Classifier!
 
-Check Out The Web App at: [road_accident_severity.io](https://devloperhs-road-severity-accident-web-app-app-aur7w7.streamlit.app/)
+Check Out The Web App at: [road_accident_severity.io](https://devloperhs-road-severity-accident-web-app-app-aur7w7.streamlit.app/, target = _blank)
 
 
 # Problem Statement
