@@ -1,4 +1,4 @@
-# Road_Severity_Accident_Predection_WebApp
+# Road_Severity_Accident_Prediction_WebApp
 Road Severity Accident Prediction Using Random Forest Classifier!
 
 Check Out The Web App [Here]()
